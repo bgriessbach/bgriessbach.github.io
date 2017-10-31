@@ -21,6 +21,10 @@ img{
 	margin: 20px;
 }
 
+#Github_text, #Links_text{
+	width: 50%;
+}
+
 #name{
 font-family:'Acme', sans-serif;
 text-align: center;
