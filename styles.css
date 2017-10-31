@@ -1,17 +1,18 @@
 <style>
 body{
-	background: url("spiration_dark/spiration_dark.png"); 
+	background-image: url("spiration_dark/spiration_dark.png"); 
 }
-h1{
+
+#name{
 font-family:'Acme', sans-serif;
 text-align: center;
-
-
 }
-h2{
+
+.headline{
  font-family:  'Acme', sans-serif;
-  
+  text-align: center;
 }
+
 .text{
 	margin: 25px;
 	padding: 10px;
