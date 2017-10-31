@@ -1,6 +1,6 @@
 <style>
 body{
-	background-image: url(spiration_dark/spiration_dark.png); 
+	background-image: url("spiration_dark/spiration_dark.png"); 
 }
 h1{
 font-family:'Acme', sans-serif;
@@ -16,7 +16,7 @@ h2{
 	margin: 25px;
 	padding: 10px;
   font-family:'PT+Mono', cursive;
-  background-image: url(green_dust_scratch/green_dust_scratch.png);
+  background-image: url("green_dust_scratch/green_dust_scratch.png");
 }
 
 
