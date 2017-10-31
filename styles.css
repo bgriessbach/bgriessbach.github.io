@@ -18,7 +18,7 @@ text-align: center;
  margin-left: 10%;
 }
 
-.text{
+.text, ul, li{
 	margin: 25px;
 	padding: 10px;
 	border: 3px solid black;
