@@ -2,13 +2,18 @@
 
 h1{
 color:black;
-font-family:arial;
+font-family:'Acme', sans-serif;
 text-allign:center;
 
 
 }
-
-
+h2{
+ font-family:  'Acme', sans-serif;
+  
+}
+p{
+  font-family:'Courgette', cursive;
+}
 
 
 
