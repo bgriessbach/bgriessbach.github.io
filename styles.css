@@ -30,10 +30,14 @@ font-family:'Acme', sans-serif;
 text-align: center;
 }
 
+#header{
+	background-image: url("images/green_dust_scratch.png");
+}
+
 .headline{
  font-family:  'Acme', sans-serif;
  margin-left: 10%;
-background-image: url("images/green_dust_scratch.png");
+
 
 }
 
