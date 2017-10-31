@@ -36,6 +36,8 @@ text-align: center;
  background-image: url("images/green_dust_scratch.png");
 }
 
-
+iframe{
+	size:50%;
+}
 
 </style>
