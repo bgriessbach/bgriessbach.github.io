@@ -4,8 +4,17 @@ body{
 }
 
 #github{
-	height:100px;
+	height:150px;
 	border-radius: 30px;
+}
+#freeCodeCamp{
+	height:100px;
+	padding: 20px;
+	margin: 20px;
+}
+#codeWars{
+	padding: 20px;
+	margin: 20px;
 }
 
 #name{
