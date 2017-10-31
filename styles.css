@@ -3,6 +3,10 @@ body{
 	background-image: url("green_dust_scratch/spiration_dark.png"); 
 }
 
+#github{
+	border: 1px solid black;
+}
+
 #name{
 font-family:'Acme', sans-serif;
 text-align: center;
