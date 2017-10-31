@@ -1,6 +1,6 @@
 <style>
 body{
-	background-image: url("images/spiration_dark.png"); 
+	background-image: url("images/spiration_dark.png") !important; 
 }
 
 img{
