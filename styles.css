@@ -34,8 +34,8 @@ img{
 }
 
 li{
-	padding-top=5px;
-	padding-bottom=5px;
+	padding-top=10px;
+	padding-bottom=10px;
 }
 
 #name{
@@ -55,7 +55,7 @@ font-family:  'Acme', sans-serif;
  margin-left: 10%;
 }
 
-.text, li{
+.text{
 	font-size: large;
 	margin: 25px;
 	padding: 20px;
