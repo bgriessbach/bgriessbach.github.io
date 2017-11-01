@@ -3,6 +3,11 @@ body{
 	background-image: url("images/spiration_dark.png"); 
 }
 
+#About_text{
+	width=75%;
+
+}
+
 img{
 	height: 150px;
 }
