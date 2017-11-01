@@ -39,19 +39,20 @@ text-align: center;
 }
 
 .headline{
- font-family:  'Acme', sans-serif;
+width=50%; 
+font-family:  'Acme', sans-serif;
  margin-left: 10%;
 background-image: url("images/green_dust_scratch.png");
 
 }
 
-.text{
+.text, li{
 	font-size: large;
 	margin: 25px;
 	padding: 20px;
 	border: 3px solid black;
 	border-radius: 2px;
-  font-family:'PT Mono';
+  font-family:'PT Mono' bold;
  background-image: url("images/green_dust_scratch.png");
 }
 
