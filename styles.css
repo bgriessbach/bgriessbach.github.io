@@ -3,11 +3,6 @@ body{
 	background-image: url("images/spiration_dark.png") !important; 
 }
 
-#About_text{
-	width=75%;
-
-}
-
 img{
 	height: 150px;
 }
@@ -26,51 +21,24 @@ img{
 	margin: 20px;
 }
 
-<<<<<<< HEAD
 #Github_text, #Links_text{
 	width: 30%;
-=======
-#Github_text{
-	width: 30%;
-}
-#Links_text{
-	width: 50%;
->>>>>>> 4730772ef457184e7ccf658689f1781eec5c3583
-}
-
-li{
-	margin-top=10px;
-	margin-bottom=10px;
 }
 
 #name{
 font-family:'Acme', sans-serif;
 text-align: center;
-background-image: url("images/green_dust_scratch.png");
 }
 
-<<<<<<< HEAD
 #header{
 	background-image: url("images/green_dust_scratch.png");
 }
 
-=======
-#headline{
-	background-image: url("images/green_dust_scratch.png");
-
-}
-
-
->>>>>>> 4730772ef457184e7ccf658689f1781eec5c3583
 .headline{
-width=50%; 
-font-family:  'Acme', sans-serif;
+ font-family:  'Acme', sans-serif;
  margin-left: 10%;
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 4730772ef457184e7ccf658689f1781eec5c3583
 }
 
 .text{
@@ -79,12 +47,12 @@ font-family:  'Acme', sans-serif;
 	padding: 20px;
 	border: 3px solid black;
 	border-radius: 2px;
-  font-family:'PT+Mono' bold;
+  font-family:'PT+Mono';
  background-image: url("images/green_dust_scratch.png");
 }
 
 iframe{
-	size:60%;
+	size:50%;
 }
 
 </style>
