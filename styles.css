@@ -3,6 +3,10 @@ body{
 	background-image: url("images/spiration_dark.png") !important; 
 }
 
+td{
+	width:50%;
+}
+
 img{
 	height: 150px;
 }
