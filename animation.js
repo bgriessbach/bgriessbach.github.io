@@ -6,7 +6,7 @@ languages.addEventListener("mouseover", function(event) {
 
 var extension = document.getElementById('table_extension');
 extension.addEventListener("mouseover", function(event) {
-  document.getElementById('display_extension').innerHTML = '<img class="picture" src="images/layout_New.PNG" alt="Screenshot of Chrome Extension"><br /> a Chrome Weather Forecast Extension';
+  document.getElementById('display_extension').innerHTML = '<img class="picture" src="images/layout_New.PNG" alt="Screenshot of Chrome Extension"><br />Chrome Weather Forecast Extension';
 }, {once : true});
 
 var jobs = document.getElementById('table_jobs');
