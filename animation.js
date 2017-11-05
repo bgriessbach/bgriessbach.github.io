@@ -21,7 +21,7 @@ python.addEventListener("mouseover", function(event) {
 
   var videos = document.getElementById('table_videos');
 videos.addEventListener("mouseover", function(event) {
-  document.getElementById('display_videos').innerHTML = '2 videos';
+  document.getElementById('display_videos').innerHTML = '<iframe width="560" height="315" src="https://www.youtube.com/embed/7nXfybcgm6g" frameborder="0" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/eQo_uOH5jSA" frameborder="0" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/zEj5Quzhktc" frameborder="0" allowfullscreen></iframe>';
 });
 
 }
