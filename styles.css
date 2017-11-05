@@ -10,11 +10,12 @@ body{
 }
 
 
-#freeCodeCamp, #codeWars, #github{
+#freeCodeCamp, #codeWars, #github, #Links_text, #Github_text{
 	height: 150px;
 	border-radius: 30px;
 	padding: 20px;
 	margin: 20px;
+	text-align: center;
 }
 
 h1{
