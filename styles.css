@@ -1,6 +1,6 @@
 <style>
 body{
-	background-image: url('images/spiration_dark.png') !important; 
+	background-image: url('images/spiration_dark.png'); 
 }
 
 
@@ -11,7 +11,7 @@ body{
 	margin: 20px;
 }
 
-h2{
+h1{
 font-family:'Acme', sans-serif;
 text-align: center;
 }
