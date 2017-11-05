@@ -12,6 +12,6 @@ extension.addEventListener("mouseover", function(event) {
 
 var jobs = document.getElementById('table_jobs');
 jobs.addEventListener("mouseover", function(event) {
-  document.getElementById('display_jobs').innerHTML = '<img src="images/it.gif" alt="IT Crowd Gif"> <br /> Escalated Global Technical Support <br /><img src="images/pmlogo.jpg" alt="Image for Project Management"> <br /> Project Management for Circuit Installations<br /><img src="images/BTTC.PNG" alt="Bloomberg Technical Training Certification"><br /> Planned and executed Technical Training Seminars';
+  document.getElementById('display_jobs').innerHTML = '<img src="images/it.gif" alt="IT Crowd Gif"> <br /> Escalated Global Technical Support <br /><img src="images/PMlogo.jpg" alt="Image for Project Management"> <br /> Project Management for Circuit Installations<br /><img src="images/BTTC.PNG" alt="Bloomberg Technical Training Certification"><br /> Planned and executed Technical Training Seminars';
 });
 }
