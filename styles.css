@@ -10,12 +10,14 @@ body{
 }
 
 
-#freeCodeCamp, #codeWars, #github, #Links_text, #Github_text{
+#freeCodeCamp, #codeWars, #github{
 	height: 150px;
 	border-radius: 30px;
-	padding: 20px;
 	margin: 20px;
 	text-align: center;
+}
+ #Links_text, #Github_text{
+text-align: center;
 }
 
 h1{
@@ -38,7 +40,7 @@ td, .text{
 	margin: 20px;
 	padding: 20px;
 	border: 3px solid black;
-	border-radius: 2px;
+	border-radius: 30px;
   font-family:'PT Mono';
 	 font-weight:bold;
  background-image: url("images/green_dust_scratch.png");
