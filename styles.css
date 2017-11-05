@@ -3,7 +3,7 @@ body{
 	background-image: url('images/spiration_dark.png'); 
 }
 
-.picture{
+.picture, .flags{
 	padding: 20px;
 	margin: 20px;
 
