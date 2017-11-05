@@ -3,6 +3,12 @@ body{
 	background-image: url('images/spiration_dark.png'); 
 }
 
+.picture{
+	padding: 20px;
+	margin: 20px;
+
+}
+
 
 #freeCodeCamp, #codeWars, #github{
 	height: 150px;
