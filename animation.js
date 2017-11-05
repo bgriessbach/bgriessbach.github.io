@@ -19,4 +19,9 @@ python.addEventListener("mouseover", function(event) {
   document.getElementById('display_python').innerHTML = '<img src="images/python_icon.png" alt="Python icon">';
 });
 
+  var videos = document.getElementById('table_videos');
+videos.addEventListener("mouseover", function(event) {
+  document.getElementById('display_videos').innerHTML = '2 videos';
+});
+
 }
