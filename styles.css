@@ -1,22 +1,23 @@
 <style>
-body{
-	background-image: url('images/background.png'); 
+
+
+
+#codeWars, #freeCodeCamp, #github{
+	height: 150px;
+	border-radius: 30px;
+	margin: 20px;
+	text-align: center;
 }
 
-.picture, .flags{
+ .flags, .picture{
 	padding: 20px;
 	margin: 20px;
 
 }
 
 
-#freeCodeCamp, #codeWars, #github{
-	height: 150px;
-	border-radius: 30px;
-	margin: 20px;
-	text-align: center;
-}
- #Links_text, #Github_text{
+
+ #githubText,  #linksText{
 text-align: center;
 }
 
@@ -35,6 +36,10 @@ background-image: url('images/green_dust_scratch.png');
 
 }
 
+iframe{
+	size:50%;
+}
+
 td, .text{
 	font-size: large;
 	margin: 20px;
@@ -47,10 +52,5 @@ td, .text{
 
 }
 
-
-
-iframe{
-	size:50%;
-}
 
 </style>
