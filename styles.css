@@ -1,5 +1,10 @@
 <style>
 
+#body{
+	background-image: url('images/stonehaven.png');
+
+}
+
 #codeWars, #freeCodeCamp, #github{
 	height: 150px;
 	border-radius: 30px;
